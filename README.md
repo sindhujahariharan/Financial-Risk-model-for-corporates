@@ -1,0 +1,2 @@
+# Financial-Risk-model-for-corporates
+The objective of financial statement analysis is to examine past and current financial data so that a company's performance and financial position can be evaluated and future risks and potential can be estimated. Financial statement analysis can yield valuable information about trends and relationships, the quality of a company's earnings, and the strengths and weaknesses of its financial position. All these information helps the credit professionals to make better decisions in lending.
